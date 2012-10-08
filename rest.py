@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 
-import json, logging, urllib
+import json, logging
 
 from google.appengine.ext import webapp
-from google.appengine.ext.webapp import util
 
 import base, dps
 
